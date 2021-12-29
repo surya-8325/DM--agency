@@ -1,0 +1,18 @@
+form{
+    margin:35px;
+}
+.input-field{
+    width:400px;
+    height:40px;
+    margin-top:20px;
+    padding-left:10px;
+    padding-right:10px;
+ 
+    border-radius:14px;
+    outline:none;
+}
+.text-area{
+  height:150px;
+  padding-top:10px;
+
+}
