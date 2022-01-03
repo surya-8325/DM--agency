@@ -133,6 +133,7 @@
             <p><i class="fas fa-envelope mr-3"></i> info@example.com</p>
             <p><i class="fas fa-phone mr-3"></i> 9347938324</p>
             <p><i class="fas fa-print mr-3"></i> 9515298061</p>
+            <p><i class="fas fa-map-marker-alt mr-3"></i> PIN :500032</p>
           </div>
           <!-- Grid column -->
         </div>
@@ -173,5 +174,20 @@
 
 
 </body>
+
+<script type="text/javascript">
+  (function () {
+      var options = {
+          whatsapp: "9347938325", // WhatsApp number
+          call_to_action: "Message us", // Call to action
+          position: "right", // Position may be 'right' or 'left'
+      };
+      var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+      s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+  })();
+</script>
+
 
 </html>
