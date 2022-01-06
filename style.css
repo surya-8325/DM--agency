@@ -380,6 +380,54 @@
     color: #d0b200;
     font-weight: 800;
   }
+  .bg-container {
+    background-color: #202b36;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.follow-us-container {
+    background-color: #959ead;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 5px;
+}
+
+.details {
+    color: #5a7184;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+
+
+.icon-1 {
+    color: #5a7184;
+    font-size: 18px;
+    
+}
+
+.hr-line {
+    background-color: white;
+}
+.copyright{
+  color:#959ead;
+  font-family: "Roboto";
+  font-size:16px;
+  font-weight:400px;
+}
+.footer-heading{
+  color:oldlace;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 700;
+}
  
 
   
