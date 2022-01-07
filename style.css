@@ -1,4 +1,7 @@
-
+.logo {
+    width: 100px;
+    height: 50px;
+  }
   *{
     margin: 0;
     padding: 0;
@@ -378,16 +381,16 @@
     font-weight: 800;
   }
   .bg-container {
-    background-color: #202b36;
+    background-color: white;
 }
 
 .icon {
-    color: #5a7184;
+    color:white;
     font-size: 20px;
 }
 
 .follow-us-container {
-    background-color: #959ead;
+    background-color: black;
     width: 30px;
     height: 30px;
     border-radius: 20px;
@@ -396,7 +399,7 @@
 }
 
 .details {
-    color: #5a7184;
+    color:black ;
     font-size: 15px;
     font-family: "Roboto";
 
@@ -405,7 +408,7 @@
 
 
 .icon-1 {
-    color: #5a7184;
+    color: black;
     font-size: 18px;
     
 }
@@ -414,17 +417,18 @@
     background-color: white;
 }
 .copyright{
-  color:#959ead;
+  color :black;
   font-family: "Roboto";
   font-size:16px;
   font-weight:400px;
 }
 .footer-heading{
-  color:oldlace;
+  color:#d0b200;
   font-family: "Roboto";
   font-size: 18px;
   font-weight: 700;
 }
+ul.a {list-style-type: none;}
  
 
   

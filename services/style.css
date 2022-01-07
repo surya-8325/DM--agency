@@ -86,7 +86,7 @@ section{
   .menu-section-heading {
     color: #183b56;
     font-family: "Roboto";
-    font-size: 18px;
+    font-size: 45px;
     font-weight: 700;
   }
   .menu-item-image {
@@ -117,3 +117,54 @@ section{
     font-size: 22px;
     font-weight: 700;
   }
+
+  .bg-container {
+    background-color: white;
+}
+
+.icon {
+    color:white;
+    font-size: 20px;
+}
+
+.follow-us-container {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 5px;
+}
+
+.details {
+    color:black ;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+
+
+.icon-1 {
+    color: black;
+    font-size: 18px;
+    
+}
+
+.hr-line {
+    background-color: white;
+}
+.copyright{
+  color :black;
+  font-family: "Roboto";
+  font-size:16px;
+  font-weight:400px;
+}
+.footer-heading{
+  color:#d0b200;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 700;
+}
+ 
+ul.a {list-style-type: none;}
