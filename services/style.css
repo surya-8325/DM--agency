@@ -2,9 +2,7 @@
   width: 100px;
   height: 50px;
 }
-body{
-  min-height: 100vh;
-}
+
 section{
     padding: 60px 0;
   }
@@ -123,6 +121,7 @@ section{
 
   .bg-container {
     background-color: white;
+    min-height:100vh;
 }
 
 .icon {
